@@ -55,4 +55,8 @@
     -o-transition: background-color 1s ease-in;
 }
 
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
 
