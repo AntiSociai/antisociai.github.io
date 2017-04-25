@@ -294,7 +294,7 @@ a.cta.outline {
   z-index: 3;
    -webkit-background-clip: text;
   background-clip: text;
-  background: -webkit-linear-gradient(0deg, #860ace 50%, #FFFFFF 50%);
+  background: -webkit-linear-gradient(0deg, #7f00ff 50%, #FFFFFF 50%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-position: 100% 0;
